@@ -1,6 +1,6 @@
 # go-gellato-membership
 
-Saintropic membership RESTful service. Built using Go language with go-siris framework (The fastest web framework for Golang | fasthttp) and dynamodb as database. Please support [go-siris framework](https://github.com/go-siris/siris) (The fastest web framework for Golang!) and read more about it to properly use and develop this project, as [go-siris](https://github.com/go-siris/siris) was the core of this project.
+Saintropic membership RESTful service. This project were the real project realization developed from [go-RESTful-MVC](https://github.com/mczal/go-RESTful-MVC). Built using Go language with go-siris framework (The fastest web framework for Golang | fasthttp) and dynamodb as database. Please support [go-siris framework](https://github.com/go-siris/siris) (The fastest web framework for Golang!) and read more about it to properly use and develop this project, as [go-siris](https://github.com/go-siris/siris) was the core of this project.
 
 List of dependency used in this project: 
 * [go-siris](https://github.com/go-siris/siris)
