@@ -1,0 +1,9 @@
+{
+    "secret": "YOUR_SECRET_KEY",
+    "sendgridKey": "YOUR_SENDGRID_API_KEY",
+    "port": "YOUR_PORT",
+    "staticBasePathLocation": "YOUR_STATIC_BASE_PATH_LOCATION.EX=localhost:8080|saintropic.com",
+    "notifWhenPointAchieve": [3,90,95,99],
+    "bonusPoint": 100,
+    "dynamodb_dbname": "gellato_db"
+}
